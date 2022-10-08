@@ -6,4 +6,5 @@
 <li><strong> Sentimental Analysis </strong></li>
 <li><strong> Analysis of Readability like Average Sentence Length, Percentage of Complex words etc. </strong></li>
 <li><strong> compute variables like Positive Score, Negative Score, Polarity Score </strong></li> 
+<li><strong> Converting into proper dataset </strong></li> 
 </ul>
